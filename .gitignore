@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Data & Outputs (Optional: keeps repo clean)
+# support_tickets/output.csv
+# support_tickets/log.txt
+
+# OS
+.DS_Store
+Thumbs.db
